@@ -4,7 +4,7 @@ This is the repository for my Cascade Server User Conference 2015 session on Tem
 
 ### Presentation
 
- - [Google Slides](https://docs.google.com/a/union.edu/presentation/d/1HftxNkuBVZt7jj_CyrS3RFYGRYnEg3QF2l3sFeaf6ec/edit?usp=sharing)
+ - [Google Slides](https://goo.gl/Juliie)
 
 ### Demos
 
