@@ -13,4 +13,8 @@ This is the repository for my Cascade Server User Conference 2015 session on Tem
 
 ### Code
 
+<<<<<<< HEAD
  - Coming soon
+=======
+ - Coming soon
+>>>>>>> origin/master
