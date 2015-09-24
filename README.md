@@ -1,6 +1,6 @@
 # Data Visualization with Cascade Server
 
-Repo for my Cascade Server User Conference 2015 [#templateDiagram](https://twitter.com/search?q=%23templatediagram) talk.
+Cascade Server User Conference 2015 [#templateDiagram](https://twitter.com/search?q=%23templatediagram) talk.
 
 ### Presentation Links
 
