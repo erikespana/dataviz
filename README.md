@@ -4,5 +4,7 @@ Cascade Server User Conference 2015 [#templateDiagram](https://twitter.com/searc
 
  - [Google Slides](https://goo.gl/Juliie)
  - [Presentation Links](https://github.com/espanae/dataviz/wiki/Presentation-Links)
- - [Template Diagram]() code.
- - [Template Publisher]() code.
+ - Code
+   - [Template Diagram](https://github.com/espanae/dataviz/tree/master/templateDiagram) code.
+   - [Template Publisher]() code.
+ - D3 Resources
