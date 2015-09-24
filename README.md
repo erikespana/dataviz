@@ -1,3 +1,12 @@
+# Template Diagrams
+Cascade Server User Conference 2015 talk and demo.
+
+This is the demo code repository for the CSUC15 talk, Data Visualization with Cascade Server.
+
+The D3.js library can be found at [http://d3js.org](http://d3js.org).
+
+Presentation slides are viewable [here](https://docs.google.com/a/union.edu/presentation/d/1HftxNkuBVZt7jj_CyrS3RFYGRYnEg3QF2l3sFeaf6ec/edit?usp=sharing).
+
 
 
 template.php
