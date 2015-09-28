@@ -20,7 +20,9 @@
         </style>
         <script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript" language="javascript"></script>
     </head>
+    
     <body>
+    
         <?php
         if( isset($_REQUEST['auth']) ) {
             $auth = $_REQUEST['auth'];
@@ -29,8 +31,10 @@
         }
         require_once('choose-template.php');
         ?>
+        
         <script src="http://d3js.org/d3.v3.min.js"></script>
         <script>
+            
             <?php
                 if(isset($_REQUEST['templateId'])) {
                     $templateId = $_REQUEST['templateId'];
@@ -107,7 +111,6 @@
                 update(root);
             }
                 
-            
             <?php
             
             if(isset($_REQUEST['templateId'])) {
@@ -264,7 +267,6 @@
                 
                 update(d);
             }
-        
         </script>
     </body>
 </html>
