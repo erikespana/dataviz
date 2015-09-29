@@ -1,12 +1,13 @@
 <?php
-// Supply Cascade Server URL, username & password
-require_once( '../../auth_user.php' );
+$auth = $_REQUEST['auth'];
+require_once( 'auth.php' );
 
-// Get the asset ID passed by the query string
-$templateId = $_REQUEST[‘templateId’];
 
 // initialize counter variables
 $totalPages = $totalContentTypes = 0;
+
+// get URL parameter
+$templateId = $_REQUEST['templateId'];
 
 /* Uses the following classes:
 
