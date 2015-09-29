@@ -1,9 +1,8 @@
 # Template Diagrams
 
 A web services script that generates tree diagrams of Cascade Server Templates.
-Tested with Cascade Servers:
-- 7.12.4
-- 7.8
+
+### Files
 
 **index.html**
 
@@ -20,3 +19,9 @@ This file is included in template.php. It generates a template dropdown menu. It
 **json.php**
 
 Aggregates the names of all the configuration sets, content types and pages related to a Template, in JSON format.
+
+### Testing
+
+Tested with Cascade Servers:
+- 7.12.4
+- 7.8
