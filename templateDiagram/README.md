@@ -1,4 +1,4 @@
-# Template Diagrams
+# Template Diagram
 
 A web services script that generates tree diagrams of Cascade Server Templates.
 
