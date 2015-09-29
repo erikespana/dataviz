@@ -20,8 +20,6 @@ This file is included in template.php. It generates a template dropdown menu. It
 
 Aggregates the names of all the configuration sets, content types and pages related to a Template, in JSON format.
 
-### Testing
-
-Tested with Cascade Servers:
+### Tested with Cascade Server
 - 7.12.4
 - 7.8
