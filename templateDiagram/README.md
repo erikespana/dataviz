@@ -1,6 +1,9 @@
 # Template Diagrams
 
-A web services app that generates exploratory tree diagrams of Cascade Server Templates.
+A web services script that generates tree diagrams of Cascade Server Templates.
+Tested with Cascade Servers:
+- 7.12.4
+- 7.8
 
 **index.html**
 
