@@ -2,7 +2,7 @@
 
 Cascade Server [User Conference 2015](http://conference.hannonhill.com/) session on the use of web services and D3 to create Template Diagrams.
 
-- [Example](https://github.com/espanae/dataviz/tree/master/templateDiagram) Template Diagram code
+- [Example](https://github.com/espanae/dataviz/tree/master/templateDiagram) template diagram code
 - Presentation
  - [slides](https://goo.gl/Juliie)
  - [links](https://github.com/espanae/dataviz/wiki/)
