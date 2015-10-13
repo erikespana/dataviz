@@ -1,6 +1,6 @@
 # Data Visualization with Cascade Server
 
-Cascade Server [User Conference 2015](http://conference.hannonhill.com/) presentation about our use of web services to create insightful Cascade Server data visualizations.
+Cascade Server [User Conference 2015](http://conference.hannonhill.com/) presentation on the use of web services to create insightful Cascade Server data visualizations.
 
 - [video](https://goo.gl/VpVXia)
 - [audio](https://goo.gl/uTXNH7) (29MB)
