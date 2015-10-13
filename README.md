@@ -1,6 +1,6 @@
 # Data Visualization with Cascade Server
 
-Cascade Server [User Conference 2015](http://conference.hannonhill.com/) session on the use of web services and D3 to create Template Diagrams.
+Cascade Server [User Conference 2015](http://conference.hannonhill.com/) session on developing Template Diagrams using web services and D3.js.
 
 - [Example](https://github.com/espanae/dataviz/tree/master/templateDiagram) template diagram code
 - Presentation
