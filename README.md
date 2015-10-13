@@ -5,6 +5,6 @@ Cascade Server [User Conference 2015](http://conference.hannonhill.com/) present
 - [video](https://goo.gl/VpVXia)
 - [audio](https://goo.gl/uTXNH7) (29MB)
 - [slides](https://goo.gl/Juliie)
-- [links](https://github.com/espanae/dataviz/wiki/).
+- [links](https://github.com/espanae/dataviz/wiki/)
 
 Template Diagram [example](https://github.com/espanae/dataviz/tree/master/templateDiagram).
